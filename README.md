@@ -54,3 +54,4 @@ Access a secured resource:
 $ curl -H "Authorization: JWT [TOKEN]" http://localhost:8000/api
 -> Logged in as johndoe
 ```
+Here I am.
